@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Pranshu%20Pal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI-powered%20SaaS%20%7C%20Vision%20%26%20Automation%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Pranshu%20Pal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI-powered%20SaaS%20%7C%20Vision%20%26%20Automation%20Engineer&descAlignY=55&descSize=18" width="100%"/> -->
 
 <a href="https://linkedin.com/in/pranshu-pal">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
